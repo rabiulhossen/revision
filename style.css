@@ -1,0 +1,18 @@
+body{
+    margin-left: 40px;
+}
+.inline-tag li{
+    text-align:justify;
+    text-decoration:none;
+    color: rgba(220, 241, 223, 0.829);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: coral;
+    width: 22%;
+
+}
+.inline-tag li:hover{
+    color: cyan;
+    width: auto;
+    transform: rotate(30deg); 
+}
