@@ -30,4 +30,14 @@ text-decoration: none;
     width: auto;
 
 }
+tcaption{
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+    text-align: justify;
+}
+td,th {
+    border: 3px solid rgb(34, 6, 46);
+padding: 5px 5px;
+}
 
