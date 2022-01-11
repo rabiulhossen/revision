@@ -14,5 +14,20 @@ body{
 .inline-tag li:hover{
     color: cyan;
     width: auto;
-    transform: rotate(30deg); 
+
 }
+#block li{
+    color: rgba(31, 3, 3, 0.979);
+    font-size: 20px;
+    font-weight: 800;
+font-family: monospace;
+text-decoration: none;
+
+}
+#block li:hover{
+    cursor: pointer;
+    color: darkorange;
+    width: auto;
+
+}
+
