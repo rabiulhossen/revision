@@ -39,5 +39,6 @@ tcaption{
 td,th {
     border: 3px solid rgb(34, 6, 46);
 padding: 5px 5px;
+border-spacing: 0ch;
 }
 
